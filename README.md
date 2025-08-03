@@ -1,3 +1,4 @@
+# Blinkit_Dashboard
 # 📊 Blinkit Sales Analysis Dashboard – Power BI Project
 
 This project showcases a dynamic Power BI dashboard built for **Blinkit**, a hyperlocal delivery app, to analyze key business metrics such as total sales, average sales, product distribution, outlet performance, and more.
